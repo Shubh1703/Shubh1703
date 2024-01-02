@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Shubh1703
-- 👀 I’m interested in coding area like hacker rank, hackathon.
 - 🌱 I’m currently learning computer science at Chandigarh university.
-- 💞️ I’m looking to collaborate on machine learning, artificial intelligence,Robotics,cloud computing.
+- 💞️ I’m looking to collaborate on Web Devlopment, Front-end Development.
 - 📫 you can reach to me via instagram/@shubhampatel340.
-- 📫 Interested to do internship in field of AI,ML,robotics,cloud computing.
+- 📫 Interested to do internship in field of Web Development.
 - 👀 dream to be placed in Google,Microsoft,Spacex,Wipro BRANDS.
 - 💞️ please advise me to get better preparation for the technologies industry.
  --Thank you so much for visiting at my profile.
